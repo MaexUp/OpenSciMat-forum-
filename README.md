@@ -14,4 +14,4 @@
 
 ## Further help
 
-If the about **q**uestion **a**nd **a**nswer (FAQ) do not satisfy your issue contact the forum manager jacobmugala3@gmail.com
+If all the above **f**requently **a**sked **q**uestions (FAQ) do not satisfy your issue contact the forum manager jacobmugala3@gmail.com
